@@ -25,6 +25,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
+	<key>NSMicrophoneUsageDescription</key>
+	<key>NSCameraUsageDescription</key>
+      <string>YOUR permission TEXT</string>
+
+	<string>Give Awesome App permission to use your microphone. Your record wont be shared without your permission..</string>
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
